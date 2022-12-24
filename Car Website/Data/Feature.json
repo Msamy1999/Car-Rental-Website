@@ -1,0 +1,35 @@
+{
+  "Features": [
+    {
+      "icon":"icon-home",
+      "name": "Lorem ipsum dolor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati, laboriosam."
+    },
+    {
+      "icon": "icon-gear",
+      "title": "Lorem ipsum dolor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati, laboriosam."
+    },
+    {
+      "icon": "icon-watch_later",
+      "title": "Lorem ipsum dolor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati, laboriosam."
+    },
+    {
+      "icon": "icon-verified_user",
+      "title": "Lorem ipsum dolor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati, laboriosam."
+    },
+    {
+      "icon": "icon-video_library",
+      "title": "Lorem ipsum dolor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati, laboriosam."
+    },
+    {
+      "icon": "icon-vpn_key",
+      "title": "Lorem ipsum dolor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati, laboriosam."
+    }
+  ] 
+
+}

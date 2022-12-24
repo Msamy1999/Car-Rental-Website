@@ -1,0 +1,37 @@
+{
+  "Blog":
+  [
+    {
+      "image" : "images/post_1.jpg" ,
+     "name" : "The best car rent in the entire planet",
+     "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores eos soluta, dolore harum molestias consectetur."
+    },
+    
+    {
+      "image" : "images/img_2.jpg" ,
+     "name" : "The best car rent in the entire planet",
+     "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores eos soluta, dolore harum molestias consectetur."
+    },
+    {
+      "image" : "images/img_3.jpg" ,
+     "name" : "The best car rent in the entire planet",
+     "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores eos soluta, dolore harum molestias consectetur."
+    },
+    {
+      "image" : "images/post_1.jpg" ,
+     "name" : "The best car rent in the entire planet",
+     "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores eos soluta, dolore harum molestias consectetur."
+    },
+    
+    {
+      "image" : "images/img_2.jpg" ,
+     "name" : "The best car rent in the entire planet",
+     "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores eos soluta, dolore harum molestias consectetur."
+    },
+    {
+      "image" : "images/img_3.jpg" ,
+     "name" : "The best car rent in the entire planet",
+     "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores eos soluta, dolore harum molestias consectetur."
+    }
+  ]
+}

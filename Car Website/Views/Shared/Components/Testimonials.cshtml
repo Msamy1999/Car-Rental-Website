@@ -1,0 +1,22 @@
+﻿@model Web_Car.Class.Testimonial
+@{
+    ViewData["Title"] = "Testimonials";
+}
+
+
+    <div class="col-lg-4 mb-4">
+        <div class="testimonial-2">
+            <blockquote class="mb-4">
+                <p>@Model.Description</p>
+            </blockquote>
+            <div class="d-flex v-card align-items-center">
+                <img src="/@Model.image" alt="Image" class="img-fluid mr-3">
+                <div class="author-name">
+                    <span class="d-block">@Model.name</span>
+                    <span>@Model.job</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+

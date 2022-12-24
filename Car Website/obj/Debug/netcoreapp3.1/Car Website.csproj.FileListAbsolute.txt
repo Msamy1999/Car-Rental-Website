@@ -1,0 +1,369 @@
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Car Website.exe
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Car Website.deps.json
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Car Website.runtimeconfig.json
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Car Website.runtimeconfig.dev.json
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Car Website.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Car Website.pdb
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Car Website.Views.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Car Website.Views.pdb
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Car Website.RazorAssemblyInfo.cache
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Car Website.RazorAssemblyInfo.cs
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Car Website.AssemblyInfoInputs.cache
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Car Website.AssemblyInfo.cs
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Car Website.TagHelpers.input.cache
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Car Website.TagHelpers.output.cache
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Car Website.RazorCoreGenerate.cache
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Car Website.RazorTargetAssemblyInfo.cache
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Car Website.RazorTargetAssemblyInfo.cs
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Car Website.Views.pdb
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\staticwebassets\Car Website.StaticWebAssets.Manifest.cache
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\staticwebassets\Car Website.StaticWebAssets.xml
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Car Website.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Car Website.pdb
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Car Website.genruntimeconfig.cache
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Car Website.csproj.CopyComplete
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Data\Blog.json
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Data\cars.json
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Data\Feature.json
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Car\Index.cshtml.g.cs
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Car\About.cshtml.g.cs
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Car\Blog.cshtml.g.cs
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout - Copy.cshtml.g.cs
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Car\listing.cshtml.g.cs
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Car\testimonials.cshtml.g.cs
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Car\Contact.cshtml.g.cs
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Testimonials.cshtml.g.cs
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Car Website.csprojAssemblyReference.cache
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Data\Testimonials.json
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Cars.cshtml.g.cs
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Car Website.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Car Website.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Types\Create.cshtml.g.cs
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Types\Delete.cshtml.g.cs
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Types\Details.cshtml.g.cs
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Types\Edit.cshtml.g.cs
+C:\Users\Mohamed Samy\source\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Types\Index.cshtml.g.cs
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\appsettings.json
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Data\Blog.json
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Data\cars.json
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Data\Feature.json
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Data\Testimonials.json
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Car Website.StaticWebAssets.xml
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Car Website.exe
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Car Website.deps.json
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Car Website.runtimeconfig.json
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Car Website.runtimeconfig.dev.json
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Car Website.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Car Website.pdb
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Car Website.Views.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Car Website.Views.pdb
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\z Backup\repos\Car Website\Car Website\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Car Website.csproj.AssemblyReference.cache
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Car Website.GeneratedMSBuildEditorConfig.editorconfig
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Car Website.AssemblyInfoInputs.cache
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Car Website.AssemblyInfo.cs
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Car Website.csproj.CoreCompileInputs.cache
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Car Website.MvcApplicationPartsAssemblyInfo.cache
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Car Website.RazorAssemblyInfo.cache
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Car Website.RazorAssemblyInfo.cs
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\staticwebassets\Car Website.StaticWebAssets.Manifest.cache
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\staticwebassets\Car Website.StaticWebAssets.Pack.cache
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Car Website.Microsoft.AspNetCore.StaticWebAssets.props
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Car Website.props
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Car Website.props
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Car Website.props
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Car Website.TagHelpers.input.cache
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Car Website.TagHelpers.output.cache
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Car Website.RazorCoreGenerate.cache
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Car\About.cshtml.g.cs
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Car\Blog.cshtml.g.cs
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Car\Contact.cshtml.g.cs
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Car\Index.cshtml.g.cs
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Car\listing.cshtml.g.cs
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Car\testimonials.cshtml.g.cs
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Cars.cshtml.g.cs
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Testimonials.cshtml.g.cs
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout - Copy.cshtml.g.cs
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Types\Create.cshtml.g.cs
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Types\Delete.cshtml.g.cs
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Types\Details.cshtml.g.cs
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Types\Edit.cshtml.g.cs
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\Types\Index.cshtml.g.cs
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Car Website.RazorTargetAssemblyInfo.cache
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Car Website.RazorTargetAssemblyInfo.cs
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Car Website.Views.pdb
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Car Website.csproj.CopyComplete
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Car Website.dll
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Car Website.pdb
+D:\z Backup\repos\Car Website\Car Website\obj\Debug\netcoreapp3.1\Car Website.genruntimeconfig.cache

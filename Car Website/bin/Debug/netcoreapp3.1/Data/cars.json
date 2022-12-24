@@ -1,0 +1,60 @@
+{
+  "cars": [
+    {
+      "image":"images/car_1.jpg",
+      "name":"Pajero"  ,
+      "price":"$389.00",
+      "Luggage":"8",
+      "Doors":"4",
+      "Passenger":"4",
+      "disc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos eos at eum, voluptatem quibusdam."
+      },
+    {
+      "image":"images/car_5.jpg",
+      "name":"Nissan Moco"  ,
+      "price":"$389.00",
+      "Luggage":"8",
+      "Doors":"4",
+      "Passenger":"5",
+      "disc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos eos at eum, voluptatem quibusdam."
+      },
+    {
+      "image":"images/car_4.jpg",
+      "name":"Honda Fitta"  ,
+      "price":"$389.00",
+      "Luggage":"8",
+      "Doors":"4",
+      "Passenger":"4",
+      "disc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos eos at eum, voluptatem quibusdam."
+      },
+    {
+      "image":"images/car_3.jpg",
+      "name":"Skoda Laura"  ,
+      "price":"$389.00",
+      "Luggage":"8",
+      "Doors":"4",
+      "Passenger":"4",
+      "disc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos eos at eum, voluptatem quibusdam."
+      },
+    {
+      "image":"images/car_2.jpg",
+      "name":"Mazda LaPuta"  ,
+      "price":"$389.00",
+      "Luggage":"8",
+      "Doors":"4",
+      "Passenger":"4",
+      "disc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos eos at eum, voluptatem quibusdam."
+      },
+    {
+      "image":"images/car_6.jpg",
+      "name":"peugeot 505"  ,
+      "price":"$1000.60",
+      "Luggage":"8",
+      "Doors":"8",
+      "Passenger":"16",
+      "disc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos eos at eum, voluptatem quibusdam."
+      }
+      
+    
+    ]
+}

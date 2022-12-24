@@ -1,0 +1,22 @@
+﻿{
+  "Testimonials": [
+    {
+      "name": "Mike Fisher",
+      "image": "images/person_1.jpg",
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, deserunt eveniet veniam. Ipsam, nam, voluptatum",
+      "job": "Owner, Ford"
+    },
+    {
+      "name": "Jean Stanley",
+      "image": "images/person_2.jpg",
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, deserunt eveniet veniam. Ipsam, nam, voluptatum",
+      "job": "Traveler"
+    },
+    {
+      "name": "Katie Rose",
+      "image": "images/person_3.jpg",
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, deserunt eveniet veniam. Ipsam, nam, voluptatum",
+      "job": "Customer"
+    }
+  ]
+}
